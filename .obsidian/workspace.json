@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "5f4a5dea6b4f2750",
+    "type": "split",
+    "children": [
+      {
+        "id": "d94861ffb25b7c2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f4689acd803ff1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skusky Zapocty/Pravo/Pravo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pravo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cb2424e61a02b83",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3f5dfccaace1b64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4751cca1739befe3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "653bf679f0350e7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e4a592696ae49fe5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4081d36521304c48",
+    "type": "split",
+    "children": [
+      {
+        "id": "4293dca91a61d31f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "946acdcdf1863dd6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8a0ae05edbad5c5c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "98783f0b7957d438",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "35ee519b6eeb9b87",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9f4689acd803ff1e",
+  "lastOpenFiles": [
+    "Absolutorium/Network/Otazky.md",
+    "Absolutorium/Network/Network.md",
+    "Skusky Zapocty/Pravo/Pravo.md",
+    "Skusky Zapocty/Ekonomika/Ekonomika.md",
+    "Skusky Zapocty/Ekonomika",
+    "Skusky Zapocty/Metody osobniho rozvoje/Metody osobniho rozvoje.md",
+    "Skusky Zapocty/Metody osobniho rozvoje",
+    "Absolutorium/Navigace.md",
+    "Skusky Zapocty/Pravo",
+    "Absolutorium/Systems/Systems",
+    "Absolutorium/Systems",
+    "POS.md",
+    "Absolutorium/Network",
+    "Skusky Zapocty",
+    "Absolutorium",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
