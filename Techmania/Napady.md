@@ -44,3 +44,11 @@ Authors: Tomas Stark, Tomas Koller
 !OBMEDZENY NM PRE OCHRANU MLADSICH!
 - s moznostou zvysit u starsich - ale nebudeme zodpovedny za mozny uraz
 
+### Drony
+
+### Naucne IT workshopy
+- pondelky malych scratch
+
+### Interaktivni programovani
+- Karl-bot
+- jednoduche programovani fyzickeho maleho robota
