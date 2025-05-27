@@ -32,6 +32,7 @@ Authors: Tomas Stark, Tomas Koller
 - Info o exponatoch
 - Mapu arealu + exponatov v arealu
 - Error reporting - QR na exponate
+- Stav exponátů - Funkční, nefunčkní, nahlášené chyby
 
 **Podrobnosti**
 - QR kod pre webview na listku do techmanie
