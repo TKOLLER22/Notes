@@ -39,6 +39,10 @@ Authors: Tomas Stark, Tomas Koller
 - aplikace na google play, appstore
 - s trackingom lokacie aby sme vedeli kde sa najcastejsie pohybuju ludia
 
+### Napojeni na NASA API
+- Pro zobrazení aktuálních fotek ze satelitů
+- Zobrazení fotek a dat z Marsu
+
 ## Ako zuzit age-gap
 
 ### Sim-racing setup
