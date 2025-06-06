@@ -43,6 +43,9 @@ Authors: Tomas Stark, Tomas Koller
 - Pro zobrazení aktuálních fotek ze satelitů
 - Zobrazení fotek a dat z Marsu
 
+### Robopes
+- Detekce hlasových pokynů pomocí AI (Sedni, lehni, atd.)
+
 ## Ako zuzit age-gap
 
 ### Sim-racing setup
