@@ -8,7 +8,7 @@ Authors: Tomas Stark, Tomas Koller
 ### Aplikaciu na svetla
 - menezovanie osvetlenia arealu techmanie cez mobilnu aplikaciu 
 - analytics kde sa kolko svieti a v akych casoch
-
+[[https://www.home-assistant.io/integrations/]]
 **Podrobnosti**
 - chytre zasuvky
 - API endpointy server
